@@ -1,0 +1,1 @@
+drwxrwx--- 1 root vboxsf 4096 May 23 09:38 sf_compartida
